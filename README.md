@@ -1,5 +1,5 @@
 # PIscripts
-A collection of script which run on my PI. They require specific Hardware to be connected so please read carefully if you want to use them. Also the scripts are not coded respecting "Best Practice" guidelines and do not have the intend to be optimal in any way.
+A collection of scripts which run on my PI. They require specific Hardware to be connected so please read carefully if you want to use them. Also the scripts are not coded respecting "Best Practice" guidelines and do not have the intend to be optimal in any way.
 
 ## CPP
 To talk to the Hardware I use [WiringPi](http://wiringpi.com/) from Gordon Henderson. Sadly he is a little [pissed](http://wiringpi.com/wiringpi-deprecated/) by some folk and thus stopped working on this awesome project. So if you have any questions about the usage of WiringPi regarding the scripts I wrote, please ask me, dont bother him.
