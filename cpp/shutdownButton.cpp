@@ -9,6 +9,14 @@
 * Pressing the Button and let go after 3, before 6 seconds (LED blinks fast, tan after 3 seconds slow) will reboot the system.
 * Pressing the button for longer than 6 seconds will let the LED stop blinking and nothing happens.
 
+~~~~~~~~~~Pi3~~~~~~~~~~
+GND-----------------|
+                    |
+G27--1KOhm--LED-----|
+                    |
+G22--470Ohm--|--BTN-|
+3V3--10KOhm--|
+
 * @date 11.09.2016
 * @author Jakob Wandel
 * @version 1.0
